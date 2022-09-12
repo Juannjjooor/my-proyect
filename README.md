@@ -1,4 +1,4 @@
-# my-proyect
+# My-proyect
 Mi primer proyecto con Git
 # Comandos Git
 1. Git clone
