@@ -1,6 +1,6 @@
 # my-proyect
 Mi primer proyecto con Git
-#Comandos Git
+# Comandos Git
 1. Git clone
 Git clone es un comando para descargarte el código fuente existente desde un repositorio remoto (como Github, por ejemplo). En otras palabras, Git clone básicamente realiza una copia idéntica de la última versión de un proyecto en un repositorio y la guarda en tu ordenador.
 2. Git branch
